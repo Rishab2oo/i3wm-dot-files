@@ -1,2 +1,2 @@
 # i3wm-dot-files
-Modified dotfiles related with i3wm. 
+configuration files related with my Manjaro i3 setup.
